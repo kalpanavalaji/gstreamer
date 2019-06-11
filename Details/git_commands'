@@ -1,0 +1,59 @@
+ git --version 
+  173  git init
+  174  git clone https://github.com/KHarishReddy/helloworld.git
+  175  ls -al
+  176  cd helloworld/
+  177  ls -al
+  178  touch ktr gjas    //create empty files
+  179  ls
+  180  git status	//check head like master branch
+  181  git add -A	//working to stack 
+
+  183  git commit -m "new file" //stack to local directory
+  184  git remote -v
+  185  git push origin		//local git to online server git
+  186  ls -al
+ 
+  188  git branch		////check  branchs list
+  189  git branch harish1	//create branch
+  
+  192  git checkout harish1 //shift one branch to another branch
+  193  git branch
+  194  ls 
+  195  vi add.c
+  196  ls
+  197  git checkout master 	//shift one branch to another branch
+  198  ls 
+  199  git checkout harish1 
+  200  ls 
+  201  git add .
+  202  git status 
+  203  git commit -m "file"
+  204  git status 
+  205  ls -al
+  206  git checkout master 
+  207  ls -al
+  208  ls
+  209  git checkout harish1 
+  210  git branch 
+  211  vi sub.c
+  212  ls
+  213  git checkout master 
+  214* 
+  215  git checkout harish1 
+  216  git add sub.c 
+  217  ls
+  218  git checkout master 
+  219  ls
+  220  git checkout harish1 
+  221  git commit -m "substaction"	
+  222  ls
+  223  git checkout master 
+  224  ls
+  225  git branch 
+  226  git merge harish1 	//add branch files to master 
+  
+  228  git branch 
+  229  git commit -m "merging"
+  230  git branch 
+ 

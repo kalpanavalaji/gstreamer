@@ -1,0 +1,27 @@
+ git --version 
+    git init
+    git clone https://github.com/KHarishReddy/helloworld.git
+   ls -al
+
+
+  touch ktr gjas    //create empty files
+
+    git status	//check head like master branch
+    git add -A	//working to stack 
+
+   git commit -m "new file" //stack to local directory
+   git remote -v
+   git push origin		//local git to online server git
+
+ 
+    git branch		////check  branchs list
+    git branch harish1	//create branch
+  
+   git checkout harish1 //shift one branch to another branch
+
+   git merge harish1 	//add branch files to master 
+	
+
+   git branch -d branch_name //remove local repositary branch
+   git push origin --delete  branch_name //remove server respositary branch
+
