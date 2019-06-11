@@ -1,0 +1,981 @@
+0:00:00.130901559 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:357:gst_jpegenc_set_format:[00m 1 2
+0:00:00.130982707 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:357:gst_jpegenc_set_format:[00m 2 2
+0:00:00.130995412 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:357:gst_jpegenc_set_format:[00m 2 2
+0:00:00.131007656 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:375:gst_jpegenc_resync:<jpegenc0>[00m resync
+0:00:00.131017450 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:386:gst_jpegenc_resync:<jpegenc0>[00m width 320, height 240
+0:00:00.131028581 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:387:gst_jpegenc_resync:<jpegenc0>[00m format 2
+0:00:00.131038630 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:396:gst_jpegenc_resync:<jpegenc0>[00m YUV
+0:00:00.131068957 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:409:gst_jpegenc_resync:<jpegenc0>[00m h_max_samp=2, v_max_samp=2
+0:00:00.131081277 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:413:gst_jpegenc_resync:<jpegenc0>[00m comp 0: h_samp=2, v_samp=2
+0:00:00.131093250 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:413:gst_jpegenc_resync:<jpegenc0>[00m comp 1: h_samp=1, v_samp=1
+0:00:00.131104828 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:413:gst_jpegenc_resync:<jpegenc0>[00m comp 2: h_samp=1, v_samp=1
+0:00:00.131116616 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:433:gst_jpegenc_resync:<jpegenc0>[00m resync done
+0:00:00.133378457 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.133406449 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.133435072 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.133874373 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.134503868 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.134803842 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.134828375 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.134858843 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.135261547 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.167908390 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.168578556 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.168612762 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.168670274 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.169577655 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.201253687 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.201769190 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.201820994 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.201869339 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.202530052 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.234610626 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.235228172 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.235260675 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.235315966 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.236185618 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.267840262 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.268431550 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.268462013 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.268514578 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.269390860 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.301183960 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.301785016 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.301839506 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.301894302 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.302762294 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.334558977 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.335185183 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.335238630 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.335295857 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.336165974 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.367861632 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.368464823 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.368496333 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.368551094 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.369419642 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.401222289 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.401866594 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.401898911 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.401955381 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.402823769 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.434547613 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.435016545 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.435041424 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.435084362 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.435739938 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.467851155 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.468444278 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.468474324 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.468528233 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.469391925 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.501180629 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.501836030 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.501868307 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.501922556 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.502789751 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.534526597 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.535128781 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.535159815 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.535214415 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.536080372 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.567838488 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.568424975 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.568454686 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.568506459 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.569365345 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.601239698 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.601893801 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.601929451 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.601987715 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.602861185 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.634500809 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.635089797 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.635120219 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.635172048 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.636052028 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.667863918 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.668468823 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.668499993 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.668554588 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.669421041 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.701168688 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.701751616 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.701780710 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.701847715 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.702705247 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.734560585 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.735042658 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.735068570 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.735112655 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.735767760 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.767859280 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.768460201 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.768492298 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.768546903 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.769413326 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.801222885 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.801877304 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.801934620 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.801992508 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.802863532 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.834521380 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.835128551 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.835167659 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.835223487 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.836092286 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.867854182 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.868449544 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.868480313 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.868533129 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.869394074 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.901235138 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.901885447 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.901921467 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.901979330 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.902853417 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.934511565 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.934957608 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.934983885 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.935025684 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.935676234 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:00.967860240 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:00.968488210 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:00.968519845 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:00.968575192 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:00.969443079 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.001181884 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.001773569 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.001841956 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.001897153 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.002759026 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.034583370 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.035069432 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.035098752 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.035143649 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.035802759 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.067896975 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.068510823 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.068543350 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.068599774 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.069470453 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.101198387 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.101858946 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.101892596 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.101948188 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.102836950 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.134511006 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.135144053 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.135179448 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.135234123 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.136111838 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.167875438 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.168363139 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.168391948 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.168435782 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.169089324 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.201243617 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.201939806 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.201976433 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.202034586 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.202908538 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.234554733 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.235210936 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.235244561 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.235301812 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.236174015 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.267867513 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.268499127 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.268553426 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.268609334 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.269475011 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.301170068 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.301781895 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.301829759 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.301882425 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.302740849 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.334569849 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.335228944 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.335262996 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.335320126 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.336190986 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.367883130 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.368534842 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.368568778 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.368624817 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.369496513 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.401190853 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.401839944 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.401872471 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.401927272 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.402792057 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.434531373 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.435184780 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.435217247 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.435272093 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.436141278 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.467860918 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.468492352 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.468524193 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.468578607 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.469442741 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.501181957 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.501824027 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.501856364 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.501911039 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.502778239 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.534575910 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.535236734 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.535270690 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.535327746 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.536200329 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.567864487 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.568497379 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.568529501 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.568584843 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.569474341 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.601173252 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.601789916 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.601849006 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.601903115 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.602766196 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.634510901 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.635138586 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.635170081 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.635224435 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.636089882 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.667878130 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.668529281 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.668562395 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.668618148 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.669485704 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.701191025 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.701840587 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.701873666 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.701927619 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.702792820 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.734543429 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.735183874 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.735216732 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.735297680 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.736167948 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.767892003 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.768528605 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.768561173 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.768615833 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.769482186 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.801239812 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.801754127 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.801780705 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.801847178 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.802507025 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.834503605 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.835118564 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.835148806 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.835200695 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.836059155 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.867863170 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.868499456 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.868532119 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.868587280 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.869450602 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.901232179 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.901963411 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.902000870 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.902057931 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.902930825 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.934561207 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.935217370 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.935251552 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.935308743 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.936181717 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:01.967881856 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:01.968533493 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:01.968567915 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:01.968623687 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:01.969491885 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.001214587 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.001887415 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.001922228 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.001979159 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.002851592 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.034579251 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.035090990 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.035117212 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.035161413 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.035837643 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.067888492 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.068547481 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.068582139 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.068638814 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.069509679 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.101195638 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.101854523 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.101889516 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.101945093 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.102812925 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.134521920 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.135146407 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.135177932 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.135231515 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.136096109 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.167882458 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.168537759 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.168571740 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.168628124 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.169497791 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.201540356 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.202113031 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.202148410 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.202253881 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.203337693 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.234601136 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.235233918 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.235267604 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.235324810 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.236201954 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.267892781 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.268517288 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.268549961 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.268606461 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.269490331 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.301237557 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.301918043 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.301969029 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.302034886 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.302966465 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.334560220 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.335117813 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.335152191 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.335197243 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.335926390 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.367890798 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.368423131 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.368473225 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.368520903 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.369212391 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.401248955 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.401783484 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.401875022 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.401929402 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.402668111 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.434567048 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.435200251 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.435232929 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.435290135 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.436169210 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.467851606 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.468513868 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.468551929 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.468610398 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.469481824 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.501203634 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.501870899 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.501905882 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.501961710 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.502851861 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.534561090 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.535212081 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.535244559 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.535301183 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.536171702 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.567879539 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.568525447 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.568564596 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.568621241 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.569493373 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.601212622 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.601884468 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.601918659 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.601975905 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.603257593 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.634612008 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.635105053 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.635131596 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.635176303 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.635841678 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.667902866 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.668400456 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.668429636 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.668495433 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.669165068 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.701210394 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.701850468 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.701885216 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.701941806 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.702812370 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.734569083 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.735200071 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.735233240 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.735291032 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.736164353 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.767891120 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.768516083 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.768553066 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.768610573 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.769483448 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.801209768 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.801845453 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.801877860 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.801933618 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.802813825 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.834552505 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.835200363 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.835233061 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.835289400 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.836166028 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.867873750 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.868343033 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.868367331 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.868410554 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.869064386 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.901190289 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.901784554 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.901830078 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.901884573 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.902749914 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.934525136 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.935125927 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.935157011 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.935211632 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.936074928 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:02.967857262 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:02.968306768 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:02.968329617 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:02.968371006 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:02.969040771 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.001225494 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.001713943 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.001739639 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.001785082 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.002479592 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.034572175 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.035063826 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.035089557 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.035134274 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.035791525 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.067921807 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.068551603 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.068584000 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.068641392 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.069511735 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.101249222 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.101563325 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.101580000 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.101608528 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.102014550 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.134557802 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.135181267 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.135213609 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.135290177 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.136161081 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.167884450 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.168499450 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.168531582 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.168587234 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.169457673 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.201244605 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.201747984 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.201783534 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.201849922 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.202544822 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.234562262 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.235190077 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.235223196 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.235280448 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.236152991 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.267887276 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.268508937 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.268540773 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.268596716 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.269469711 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.301217513 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.301886883 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.301921650 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.301977624 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.302847531 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.334596952 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.335229950 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.335262728 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.335319989 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.336193265 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.367871426 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.368494220 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.368532641 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.368589878 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.369473547 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.401241012 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.401660250 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.401682558 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.401720098 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.402273396 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.434563750 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.435192032 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.435224424 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.435281340 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.436176087 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.467929332 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.468333665 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.468367470 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.468402749 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.468853207 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.501277070 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.501742764 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.501770956 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.501835054 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.502375426 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.534542051 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.535180337 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.535211832 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.535268036 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.536148418 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.567869301 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.568507411 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.568539558 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.568594489 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.569462306 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.601216383 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.601900011 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.601936764 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.602017231 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.602889398 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.634523830 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.634998587 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.635022935 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.635068714 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.635720236 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.667885006 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.668539881 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.668573877 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.668630432 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.669503126 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.701221152 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.701902681 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.701939188 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.701996454 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.702867554 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.734567763 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.735232201 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.735266111 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.735323744 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.736196974 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.767889550 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.768570517 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.768604307 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.768661704 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.769530473 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.801229625 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.801916441 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.801951224 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.802008330 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.802893048 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.834529995 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.835163164 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.835195626 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.835250462 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.836116289 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.867854037 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.868484700 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.868516044 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.868570695 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.869436698 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.901217388 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.901887830 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.901923741 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.901980000 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.902871408 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.934534739 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.935167747 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.935199759 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.935255311 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.936121525 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:03.967839485 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:03.968460144 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:03.968491253 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:03.968544615 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:03.969419805 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.001194812 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.001850724 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.001884971 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.001940157 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.002805274 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.034583528 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.035097493 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.035123760 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.035168356 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.035826454 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.067902523 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.068418342 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.068445166 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.068507635 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.069170654 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.101200167 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.101684371 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.101715525 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.101759580 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.102445329 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.134503841 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.135120831 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.135151494 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.135204350 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.136063747 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.167885129 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.168536461 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.168569891 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.168626265 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.169497134 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.201923621 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.202486336 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.202528476 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.202574742 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.203264490 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.234544603 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.235044975 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.235073157 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.235116551 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.235770759 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.267856862 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.268470254 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.268500746 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.268553417 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.269413105 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.301207037 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.301877855 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.301915059 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.301971829 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.302840870 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.334543950 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.335163260 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.335196860 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.335253535 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.336124435 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.367883003 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.368505692 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.368537538 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.368593796 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.369463103 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.401180347 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.401808368 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.401842896 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.401900162 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.402768275 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.434537218 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.434999815 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.435023416 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.435065496 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.435718492 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.467866192 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.468465314 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.468495937 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.468550412 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.469416756 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.501179233 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.501621832 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.501644341 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.501684056 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.502347752 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.534524341 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.535120145 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.535151199 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.535225030 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.536090873 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.567845426 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.568431643 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.568461524 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.568514019 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.569376153 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.601186419 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.601782824 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.601828654 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.601883389 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.602748991 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.634511644 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.635107343 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.635137791 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.635191599 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.636055833 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.667917772 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.668552494 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.668585904 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.668643406 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.669518129 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.701196842 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.701843633 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.701876461 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.701931913 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.702801079 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.734555933 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.735172442 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.735203777 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.735260091 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.736127968 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.767863000 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.768316099 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.768339380 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.768381305 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.769032912 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.801227659 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.801717666 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.801743538 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.801788029 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.802465754 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.834577779 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.835211669 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.835244938 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.835302119 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.836175225 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.867845863 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.868433568 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.868463143 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.868515528 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.869375056 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.901232905 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.901721629 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.901747100 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.901791446 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.902473075 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.934531111 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.935125582 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.935159548 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.935213126 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.936084402 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:04.967861028 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:04.968455599 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:04.968486011 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:04.968540246 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:04.969403006 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.001204331 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.001852204 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.001885008 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.001961595 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.002829939 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.034588070 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.034988254 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.035013369 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.035050457 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.035579477 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.067915240 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.068407398 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.068432878 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.068478206 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.069135452 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.101208895 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.101841738 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.101874286 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.101929818 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.102798798 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.134580050 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.135228029 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.135270104 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.135329170 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.136202581 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.167895993 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.168227783 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.168244263 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.168272876 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.168667832 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.201204027 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.201835261 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.201867578 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.201933435 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.202822875 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.234572758 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.235060545 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.235086191 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.235131544 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.236001667 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.267974866 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.268603980 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.268636698 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.268693483 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.269564925 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.301253606 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.301740150 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.301766142 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.301832019 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.302491791 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.334559195 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.335091884 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.335121886 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.335166898 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.335838603 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.367887342 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.368538298 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.368571633 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.368628172 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.369497874 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.401221665 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.401894452 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.401928203 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.401985560 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.402853362 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.434574000 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.435209840 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.435243796 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.435300862 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.436188196 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.467844244 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.468436175 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.468466076 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.468540583 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.469403996 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.501192028 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.501645564 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.501668739 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.501709978 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.502384590 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.534502690 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.535090500 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.535120542 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.535173458 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.536034875 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.567851817 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.568450488 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.568481342 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.568535771 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.569401760 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.601186250 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.601784239 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.601842964 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.601897639 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.602761884 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.634573558 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.635079849 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.635105741 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.635150187 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.635808460 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.667934589 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.668575290 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.668609366 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.668666859 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.669540250 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.701244087 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.701889044 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.701922373 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.701979068 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.702850254 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.734562511 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.735182092 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.735214324 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.735270623 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.736140867 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.767838835 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.768431237 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.768461619 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.768514320 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.769374619 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.801189291 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.801788268 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.801848888 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.801904530 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.802768900 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.834585405 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.835232337 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.835274462 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.835335092 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.836235006 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.867898206 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.868528889 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.868562043 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.868619986 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.869493447 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.901267667 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.901927053 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.901963270 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.902020561 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.902892474 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.934504758 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.935090789 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.935120560 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.935194080 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.936053578 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:05.967852572 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:05.968458421 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:05.968489806 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:05.968544065 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:05.969409642 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.001214109 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.001687728 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.001712562 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.001756532 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.002430533 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.034578368 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.034978927 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.034999687 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.035036500 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.035563866 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.067892206 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.068523520 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.068557396 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.068614713 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.069484475 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.101185746 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.101828117 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.101859817 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.101915184 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.102781243 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.134526564 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.135181840 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.135218643 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.135275629 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.136147466 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.167869657 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.168353460 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.168378670 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.168425321 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.169078177 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.201188790 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.201867813 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.201910299 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.201967882 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.202849167 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.234584449 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.235246848 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.235281199 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.235338005 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.236210418 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.267858062 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.268497496 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.268530805 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.268585886 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.269452421 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.301170608 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.301631360 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.301654741 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.301698947 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.302366477 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.334581107 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.335249279 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.335290121 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.335347959 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.336227690 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.367871565 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.368508192 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.368540754 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.368594618 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.369458030 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.401195688 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.401849997 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.401885076 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.401961067 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.402831235 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.434712405 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.435476145 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.435512647 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.435570896 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.436444177 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.467877971 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.468531994 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.468570160 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.468627567 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.469496673 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.501236967 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.501564488 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.501581578 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.501613569 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.502023205 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source
+0:00:06.534610182 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:522:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing done
+0:00:06.534953846 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:448:gst_jpegenc_handle_frame:<jpegenc0>[00m got new frame
+0:00:06.534978866 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:174:gst_jpegenc_init_destination:[00m gst_jpegenc_chain: init_destination
+0:00:06.535011774 [332m 6277[00m      0x277c320 [33;01mLOG    [00m [00m             jpegenc gstjpegenc.c:482:gst_jpegenc_handle_frame:<jpegenc0>[00m compressing
+0:00:06.535543035 [332m 6277[00m      0x277c320 [37mDEBUG  [00m [00m             jpegenc gstjpegenc.c:239:gst_jpegenc_term_destination:<jpegenc0>[00m gst_jpegenc_chain: term_source

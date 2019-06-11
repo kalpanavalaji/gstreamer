@@ -1,0 +1,15 @@
+# the standard variables don't make sense for an uninstalled copy
+prefix=
+exec_prefix=
+libdir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1/libs/gst/check/.libs
+includedir=
+girdir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1/libs/gst/check
+typelibdir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1/libs/gst/check
+
+Name: GStreamer check unit testing, uninstalled
+Description: Unit testing helper library for GStreamer modules, Not Installed
+Requires: gstreamer-1.0 = 1.8.1
+Version: 1.8.1
+
+Libs: -L${libdir} -lgstcheck-1.0 -lm
+Cflags: -I/home/kakanhar/gstreamer-master/gstreamer-1.8.1/libs -I/home/kakanhar/gstreamer-master/gstreamer-1.8.1/libs

@@ -1,0 +1,20 @@
+# the standard variables don't make sense for an uninstalled copy
+prefix=
+exec_prefix=
+libdir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1/gst/.libs
+# includedir is builddir because it is used to find gstconfig.h in places
+includedir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1
+toolsdir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1/tools
+pluginsdir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1
+girdir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1/gst
+completionsdir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1/data/completions
+helpersdir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1/libs/gst/helpers
+typelibdir=/home/kakanhar/gstreamer-master/gstreamer-1.8.1/gst
+
+Name: GStreamer Uninstalled
+Description: Streaming media framework, Not Installed
+Version: 1.8.1
+Requires: glib-2.0, gobject-2.0
+Requires.private: gmodule-no-export-2.0
+Libs: -L${libdir} -lgstreamer-1.0
+Cflags: -I/home/kakanhar/gstreamer-master/gstreamer-1.8.1 -I/home/kakanhar/gstreamer-master/gstreamer-1.8.1/libs -I/home/kakanhar/gstreamer-master/gstreamer-1.8.1 -I/home/kakanhar/gstreamer-master/gstreamer-1.8.1/libs
